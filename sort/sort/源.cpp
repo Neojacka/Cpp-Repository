@@ -4,8 +4,7 @@
 //≤Â»Î≈≈–Ú
 void insertsort(int* a, int n)
 {
-	int i;
-	for (i = 0; i < n - 1; i++)
+	for (int i = 0; i < n - 1; i++)
 	{
 		int end = i;
 		int tmp = a[end + 1];

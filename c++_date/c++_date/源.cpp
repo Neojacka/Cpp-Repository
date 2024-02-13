@@ -144,7 +144,7 @@ public:
 		}
 		return n * flag;
 	}
-	void Print()const
+	void Print()const//–ﬁ Œthis÷∏’Î
 	{
 		cout << _year <<"-"  << _month <<"-" << _day << endl;
 	}
