@@ -1,0 +1,3 @@
+﻿  floyd.cpp
+D:\VS2022\VS2022code\c-c-code\djskla\floyd\floyd.cpp(18,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  floyd.vcxproj -> D:\VS2022\VS2022code\c-c-code\djskla\x64\Debug\floyd.exe
